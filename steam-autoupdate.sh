@@ -1,7 +1,6 @@
 #!/bin/bash
 
-manifestfiles="${HOME}/desktop/testacf/*.acf"
-#manifestfiles="${STEAM_DIR}/steamapps/*.acf"
+manifestfiles="${STEAM_DIR}/steamapps/*.acf"
 theprompt="\nThis script will change the auto-update settings of all of your Steam games.\
 \n\nWhat do you want to do? \
 \n\n1. Download updates whenever Steam feels like it.\
